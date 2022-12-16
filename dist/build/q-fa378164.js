@@ -1,1 +1,0 @@
-import{z as o,R as t,_ as e}from"./q-d1d2cd95.js";const c=[8,4,2,1],_=[32,16,8,4,2,1],a=o(t(()=>e(()=>import("./q-cbc5eeff.js"),["build/q-cbc5eeff.js","build/q-d1d2cd95.js"]),"s_EuUONB5Ro0Q")),i={title:"Clock"};export{a as default,i as head,c as hourBinPlaces,_ as minAndSecBinPlaces};

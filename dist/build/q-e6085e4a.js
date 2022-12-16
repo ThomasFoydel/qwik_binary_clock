@@ -1,1 +1,0 @@
-import{z as t,R as e,_ as o}from"./q-d1d2cd95.js";const a=t(e(()=>o(()=>import("./q-6ed933dc.js"),["build/q-6ed933dc.js","build/q-2d6eb38e.js","build/q-d1d2cd95.js"]),"s_xYL1qOwPyDI")),_={title:"Welcome to Qwik",meta:[{name:"description",content:"Binary Clock"}]};export{a as default,_ as head};

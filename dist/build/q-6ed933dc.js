@@ -1,1 +1,0 @@
-import{L as o}from"./q-2d6eb38e.js";import{K as s,f as r}from"./q-d1d2cd95.js";const t=()=>s("div",{children:s(o,{class:"mindblow",href:"/clock/",children:"CLOCK",[r]:{class:r,href:r}},"H1_0")});export{t as s_xYL1qOwPyDI};
